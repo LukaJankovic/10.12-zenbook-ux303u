@@ -5,7 +5,7 @@
 * Initial release
 
 ## Important notes
-* Since I only own a maxed out [UX303UB](ux303ub-c4032t) with QHD+ display, some things may not work as intended if you follow this guide yet own a different model. If this happens to be the case, feel free to open an issue, and I'll try to help.
+* Since I only own a maxed out [UX303UB](ux303ub-c4032t) with QHD+ display, some things may not work as intended if you follow this guide yet own a different model. At the very least, if you happen to own a different model, [you should generate a new ssdt](https://www.tonymacx86.com/threads/guide-native-power-management-for-laptops.175801/). If this happens to be the case, feel free to open an issue, and I'll try to help.
 * The integrated Intel Wifi card does not work on macOS, and therefore you need to replace it with a broadcom one, I'm using a BCM94352Z / DW-1560 card. As a result of this, you might need to patch Wifi yourself if you happen to be using another Wifi card.
 * Many models include a dedicated GPU (usually Nvidia GT840M or GT940M). These will **not** work with macOS at all, which means you're stuck with intel's integrated graphics.
 * Sleep doesn't work fully. **See the "Sleep" section.**
