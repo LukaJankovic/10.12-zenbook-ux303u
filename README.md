@@ -44,7 +44,7 @@ However, these chugs were never bad enough to really bother me, and at least you
 
 Sleep works well when the device is running of of battery power. If it's put to sleep when it's charging, it's unable to wake up and requires a full reboot. For now I'm using [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) to disable sleep completely when on AC power, however, even this isn't enough, and the device still gets stuck.
 
- ### Keyboard
+### Keyboard
 
 I've modified the keyboard driver a bit. This is what I've changed / added:
 * 16 level keyboard backlight
